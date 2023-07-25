@@ -19,7 +19,7 @@
 
 > Differentiating Points
 
-- Provides automatic prompt template generation that optimizes the LLM's answer to specific industries and use cases.
+- Provides various prompt templates that allow LLM to provide higher-quality answers in specific industries and use cases.
 
 ## 2. LLM-Driven Research and Decision-Making Assistant ("Research and Decision-Making Assistant")
 

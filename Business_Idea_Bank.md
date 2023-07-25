@@ -1,7 +1,5 @@
 # Startup Idea Bank
 
----
-
 ## 1. Secure Access to LLM Platform ("Secure ChatGPT") (Original Idea)
 
 - A platform where companies can deploy and use open-source LLM as easily as possible.
@@ -23,15 +21,13 @@
 
 - Provides automatic prompt template generation that optimizes the LLM's answer to specific industries and use cases.
 
----
-
 ## 2. LLM-Driven Research and Decision-Making Assistant ("Research and Decision-Making Assistant")
 
 - A LLM-driven assistant that helps company employees find relevant information to a problem and helps with decision-making progress.
 
 > How does it work?
 
-- Instead of just relying on training data from the internet until 2021 like ChatGPT, this platform web-searches for relevant information up to date, as well as connects to the company's internal knowledge bases and find relevant information.
+- Instead of just relying on training data from the internet until 2021 like ChatGPT, this platform web-searches for relevant information up to date, as well as connects to the company's internal knowledge bases and finds relevant information.
 - After gathering relevant information and summarizing them for the user, it can also help the user make critical decisions.
 - Lately, the LLM will be provided in a secure manner that prevents any data leakage.
 

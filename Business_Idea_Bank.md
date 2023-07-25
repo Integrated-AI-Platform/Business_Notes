@@ -41,5 +41,3 @@
 - The platform can aggregate large amounts of information both from the web and internal knowledge base and summarize in an easy-to-understand manner for non-technical people.
 - Based on the found data, the LLM can provide a step-by-step analysis of the data and make a definitive decision.
 - Additionally, it can account for various opinions from the user when making decisions.
-
----
